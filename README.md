@@ -2,7 +2,7 @@
 
 Live Link: https://poetic-caramel-9c128e.netlify.app/
 
-Graph Algorithm Visualizer:
+
 Welcome to the Graph Algorithm Visualizer project! This tool is designed to help you visualize popular graph algorithms such as Depth-First Search (DFS), Breadth-First Search (BFS), and Dijkstra's algorithm. Whether you're a student studying graph theory or a developer implementing these algorithms, this tool can aid in understanding and debugging.
 
 Features
