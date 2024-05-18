@@ -1,4 +1,4 @@
-# Graph_Algorithms-Visualizer
+# GraphExplorer: Journey through Algorithms
 
 Live Link: https://poetic-caramel-9c128e.netlify.app/
 
